@@ -1,3 +1,7 @@
-.test {
+.playkit-icon-play {
+  display: none;
+}
+
+.playkit-icon-pause {
   display: none;
 }
