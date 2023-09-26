@@ -1,3 +1,7 @@
 .playkit-control-button {
   display: none;
 }
+
+.playkit-is-playing {
+  display: none;
+}
